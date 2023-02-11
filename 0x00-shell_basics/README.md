@@ -16,4 +16,4 @@ List Long Format And Hide Files And User-Group Numeric And CD Directory ***
 Move File ***
 Delete file And Directory ***
 Print Working Directory ***
-Magic File ***
+Magic File
