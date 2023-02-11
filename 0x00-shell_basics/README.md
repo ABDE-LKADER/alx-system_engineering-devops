@@ -1,6 +1,6 @@
-<h1> Shell Basics </h1>
+> Here we will see The ***Shell-Basics***
 
-Print Working Directory ***
+<Print Working Directory ***
 Contents List ***
 Change To The Previous Dir ***
 Move All Uppercase File ***
@@ -16,4 +16,4 @@ List Long Format And Hide Files And User-Group Numeric And CD Directory ***
 Move File ***
 Delete file And Directory ***
 Print Working Directory ***
-Magic File
+Magic File>
