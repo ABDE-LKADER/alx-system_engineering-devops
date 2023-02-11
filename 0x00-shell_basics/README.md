@@ -1,2 +1,22 @@
-<h1> 0x00-shell_basics </h1>
-> This Scripte About ***Print Working Directory***
+<h1> Shell Basics </h1>
+<p>
+
+Print Working Directory ***
+Contents List ***
+Change To The Previous Dir ***
+Move All Uppercase File ***
+Delete All Fill End By TILD ***
+Creat Multi Directories At The Same Time ***
+Commas ***
+list hide long All File In Different DIR ***
+Display Type Of File ***
+Link File ***
+Copy All Newer html Files ***
+Change Directory To The Home ***
+List Long Format And Hide Files And User-Group Numeric And CD Directory ***
+Move File ***
+Delete file And Directory ***
+Print Working Directory ***
+Magic File ***
+
+</p>
