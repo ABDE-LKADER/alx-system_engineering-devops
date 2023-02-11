@@ -1,13 +1,12 @@
 <h1> Shell Basics </h1>
-<p>
 
-Print Working Directory *** \n
-Contents List *** \n
-Change To The Previous Dir *** \n
-Move All Uppercase File *** \n
-Delete All Fill End By TILD *** \n
-Creat Multi Directories At The Same Time *** \n 
-Commas *** \n
+Print Working Directory ***
+Contents List ***
+Change To The Previous Dir ***
+Move All Uppercase File ***
+Delete All Fill End By TILD ***
+Creat Multi Directories At The Same Time ***
+Commas ***
 list hide long All File In Different DIR ***
 Display Type Of File ***
 Link File ***
@@ -18,5 +17,3 @@ Move File ***
 Delete file And Directory ***
 Print Working Directory ***
 Magic File ***
-
-</p>
