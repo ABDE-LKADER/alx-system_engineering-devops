@@ -1,3 +1,3 @@
 > Here We Will See ***Redirection Shell (Special characters)***
 
-> Display Phrase *** Display Special Character *** Display File Content *** Content Tow Files ***  
+> Display Phrase *** Display Special Character *** Display File Content *** Content Tow Files *** Display last Lines *** 
