@@ -1,2 +1,2 @@
 #!/bin/bash
-tr " " "\n"
+print "if $. % 2==1" | cut -sf1
