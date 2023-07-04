@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# Loop through the numbers 1 to 10 and print "Best School" for each iteration
 
 i=1
 
