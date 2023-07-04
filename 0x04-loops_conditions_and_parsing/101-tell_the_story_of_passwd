@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# Display the story of the passwd file
 
 myfile="/etc/passwd"
 f1=""

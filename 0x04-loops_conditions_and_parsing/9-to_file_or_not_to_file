@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# Check if school file exists and if it is empty
 
 if [ -e "school" ]
 then
