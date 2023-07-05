@@ -1,1 +1,1 @@
-> Here we will see The ***Regular expression*** ^_^
+> Here we will see The ***Regular expression***
