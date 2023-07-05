@@ -1,4 +1,4 @@
 #!/usr/bin/env ruby
-# Repetition of a character zero or more times
+# Match given pattern
 
-puts ARGV[0].scan(/hbt*n/).join
+puts ARGV[0].scan(/hbt{2,5}n/).join
