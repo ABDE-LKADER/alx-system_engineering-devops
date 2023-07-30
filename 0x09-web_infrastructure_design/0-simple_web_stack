@@ -1,7 +1,7 @@
-<h2> One server web infrastructure</h2>
-<p>That hosts the website that is reachable via www.foobar.com</p>
+One server web infrastructure
+That hosts the website that is reachable via www.foobar.com
 
-__*Specifics About This Infrastructure:*__
+Specifics About This Infrastructure:
 What is a server?
 A server is either a computer hardware or software that provides services to other computers, usually referred to as clients.
 
@@ -23,7 +23,7 @@ The database's role is to maintain a well-organized collection of information th
 What is the server using to communicate with the computer of the user requesting the website?
 The server communicates with the user's computer over the internet network through the TCP/IP protocol suite.
 
-__*Issues With This Infrastructure*__
+Issues With This Infrastructure
 There are multiple Single Points Of Failure (SPOF) in this infrastructure. For example, if the MySQL database server goes down, the entire website would be inaccessible.
 
 Downtime is experienced when maintenance is needed. Since there is only one server hosting all components, any maintenance checks or updates would require taking the components or the entire server offline, resulting in downtime for the website.
