@@ -30,4 +30,4 @@ Downtime is experienced when maintenance is needed. Since there is only one serv
 
 Scaling becomes difficult if there is too much incoming traffic. With all components on a single server, it can quickly become overwhelmed with traffic, leading to slow response times or crashes. The lack of scalability may hinder the website's ability to handle increased user demand effectively.
 
-> Whiteboard URL: 
+> Whiteboard URL: https://drive.google.com/file/d/17de7ke9Rd8JDR_A--GX2z4MDKMERNf4S/view?usp=sharing
